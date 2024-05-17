@@ -1,4 +1,4 @@
-# Privacy Policy
+# MilDict Privacy Policy
 
 This Privacy Policy ("Policy") explains how our mobile application ("App") uses and protects any information that you provide while using this App. We respect your privacy and are committed to protecting your personal data. If you have any questions or concerns about this Policy, please contact us.
 
