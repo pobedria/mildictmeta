@@ -1,9 +1,11 @@
+# Privacy Policy
+
 This Privacy Policy ("Policy") explains how our mobile application ("App") uses and protects any information that you provide while using this App. We respect your privacy and are committed to protecting your personal data. If you have any questions or concerns about this Policy, please contact us.
 
-## 1. Introduction
+### 1. Introduction
 We are committed to ensuring your privacy and protecting any personal information you may provide while using the App. However, this App does not collect, store, use, or share any personal data from users.
 
-## 2. Data Collection
+### 2. Data Collection
 Our App does not collect any user data. This means we do not receive, store, or transmit any personal information such as:
 Name
 Email address
@@ -13,10 +15,10 @@ Geolocation data
 Device information
 Other personal data
 
-## 3. Use of Data
+### 3. Use of Data
 Since we do not collect any data, we do not use it for any purposes. We guarantee that your personal data remains entirely within your control and possession.
 
-## 4. Data Sharing with Third Parties
+### 4. Data Sharing with Third Parties
 We do not share any data with third parties, as we do not collect any information from users of our App.
 
 ### 5. Data Security
